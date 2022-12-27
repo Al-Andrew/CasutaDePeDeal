@@ -1,0 +1,20 @@
+{
+  "name": "casutadepedeal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al-Andrew/CasutaDePeDeal.git"
+  },
+  "author": "Aldea Andrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al-Andrew/CasutaDePeDeal/issues"
+  },
+  "homepage": "https://github.com/Al-Andrew/CasutaDePeDeal#readme"
+}
